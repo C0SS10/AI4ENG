@@ -10,3 +10,4 @@ El problema se complica al expandir tiendas, agregar nuevos productos, lidiar co
 El dataset fué extraído de la competicion [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 
 ## VIDEOS 📼
+- [Video segunda entrega](https://drive.google.com/file/d/1dyopPILwMulZmmHCpPeHRhGI2Gwc4Y31/view?usp=sharing)
