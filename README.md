@@ -11,3 +11,4 @@ El dataset fué extraído de la competicion [Corporación Favorita Grocery Sales
 
 ## VIDEOS 📼
 - [Video segunda entrega](https://drive.google.com/file/d/1dyopPILwMulZmmHCpPeHRhGI2Gwc4Y31/view?usp=sharing)
+- [Video tercera entrega](https://drive.google.com/file/d/1QCW8CLUm6hc48tCEKy-zojKizCrl1qmk/view?usp=sharing)
